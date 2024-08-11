@@ -1,0 +1,18 @@
+.hide {
+  display: none !important;
+  opacity: none;
+  appearance: none;
+}
+
+.modal {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

@@ -1,0 +1,30 @@
+.matrix {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 7px;
+  max-width: 250px;
+  margin-bottom: 15px;
+}
+
+.modal {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1), -5px -5px 10px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  margin: auto;
+  background-color: white;
+}
+
+.wrapper {
+  margin: 20px;
+}
+
+matrix_row {
+  display: grid;
+  grid-gap: 10px;
+}
+
+.inputs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}

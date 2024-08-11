@@ -1,0 +1,23 @@
+.equation {
+  margin-bottom: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.equation > * {
+  margin-right: 30px;
+}
+
+.options {
+  margin-bottom: 30px;
+}
+.options > * {
+  margin-right: 20px;
+}
+
+.result {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

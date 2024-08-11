@@ -1,0 +1,264 @@
+{
+  "ip": "0:0:0:0:0:0:0:1",
+  "action": "determinant",
+  "matrixA": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        10.0,
+        20.0
+      ],
+      [
+        15.0,
+        333.0
+      ]
+    ]
+  },
+  "matrixB": {
+    "rows": 0,
+    "columns": 0,
+    "matrix": []
+  },
+  "resultMatrix": {
+    "rows": 0,
+    "columns": 0,
+    "matrix": []
+  },
+  "resultValue": 3030.0,
+  "error": "None"
+},
+{
+  "ip": "0:0:0:0:0:0:0:1",
+  "action": "inverse",
+  "matrixA": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        10.0,
+        20.0
+      ],
+      [
+        15.0,
+        333.0
+      ]
+    ]
+  },
+  "matrixB": {
+    "rows": 0,
+    "columns": 0,
+    "matrix": []
+  },
+  "resultMatrix": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        0.11,
+        -0.007
+      ],
+      [
+        -0.005,
+        0.003
+      ]
+    ]
+  },
+  "error": "None"
+},
+{
+  "ip": "0:0:0:0:0:0:0:1",
+  "action": "rang",
+  "matrixA": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        10.0,
+        20.0
+      ],
+      [
+        15.0,
+        333.0
+      ]
+    ]
+  },
+  "matrixB": {
+    "rows": 0,
+    "columns": 0,
+    "matrix": []
+  },
+  "resultMatrix": {
+    "rows": 0,
+    "columns": 0,
+    "matrix": []
+  },
+  "resultValue": 2.0,
+  "error": "None"
+},
+{
+  "ip": "0:0:0:0:0:0:0:1",
+  "action": "transpose",
+  "matrixA": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        10.0,
+        20.0
+      ],
+      [
+        15.0,
+        333.0
+      ]
+    ]
+  },
+  "matrixB": {
+    "rows": 0,
+    "columns": 0,
+    "matrix": []
+  },
+  "resultMatrix": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        10.0,
+        15.0
+      ],
+      [
+        20.0,
+        333.0
+      ]
+    ]
+  },
+  "error": "None"
+},
+{
+  "ip": "0:0:0:0:0:0:0:1",
+  "action": "triangularShapeLower",
+  "matrixA": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        10.0,
+        20.0
+      ],
+      [
+        15.0,
+        333.0
+      ]
+    ]
+  },
+  "matrixB": {
+    "rows": 0,
+    "columns": 0,
+    "matrix": []
+  },
+  "resultMatrix": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        9.099,
+        0.0
+      ],
+      [
+        15.0,
+        333.0
+      ]
+    ]
+  },
+  "error": "None"
+},
+{
+  "ip": "0:0:0:0:0:0:0:1",
+  "action": "triangularShapeUpper",
+  "matrixA": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        10.0,
+        20.0
+      ],
+      [
+        15.0,
+        333.0
+      ]
+    ]
+  },
+  "matrixB": {
+    "rows": 0,
+    "columns": 0,
+    "matrix": []
+  },
+  "resultMatrix": {
+    "rows": 2,
+    "columns": 2,
+    "matrix": [
+      [
+        10.0,
+        20.0
+      ],
+      [
+        0.0,
+        303.0
+      ]
+    ]
+  },
+  "error": "None"
+},
+{
+  "ip": "0:0:0:0:0:0:0:1",
+  "action": "inverse",
+  "matrixA": {
+    "rows": 3,
+    "columns": 3,
+    "matrix": [
+      [
+        10.0,
+        5.0,
+        334.0
+      ],
+      [
+        1.0,
+        6237.0,
+        5.0
+      ],
+      [
+        5.0,
+        5.0,
+        5.0
+      ]
+    ]
+  },
+  "matrixB": {
+    "rows": 0,
+    "columns": 0,
+    "matrix": []
+  },
+  "resultMatrix": {
+    "rows": 3,
+    "columns": 3,
+    "matrix": [
+      [
+        -0.003,
+        -0.0,
+        0.206
+      ],
+      [
+        -0.0,
+        0.0,
+        -0.0
+      ],
+      [
+        0.003,
+        0.0,
+        -0.006
+      ]
+    ]
+  },
+  "error": "None"
+}
